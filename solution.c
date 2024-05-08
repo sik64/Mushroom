@@ -28,7 +28,7 @@ move = { 'w','a','a','s','s','d','d','d','w','w'}
 
 */
 int solution(int map[5][5], char move[10]) {
-	 // 여기에서 코드 작성을 시작하세요.
+	 // 여기에서 코드 작성을 시작하세요 !!!
 	int result = 0;
 	return result;
 }
