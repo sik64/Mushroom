@@ -48,7 +48,7 @@ int main() {
 			printf("\n\n\n");
 			return 0;
 		}
-		Sleep(500);
+		Sleep(50);
 	}
 	system("cls");
 	printAlgoComplete();
