@@ -1,2 +1,3 @@
 C:\Users\SIK\source\repos\Mushroom\x64\Debug\Mushroom.exe
 C:\Users\SIKLAB\source\repos\Mushroom\x64\Debug\Mushroom.exe
+C:\Users\SIKLAB\Desktop\gocom\Mushroom\x64\Debug\Mushroom.exe
